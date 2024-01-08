@@ -11,7 +11,7 @@
     margin-bottom: 20px;
   }
   .registerContainer {
-    background-color: blue;
+    background-color: darkcyan;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -21,7 +21,7 @@
     transition: background-color 0.3s;
   }
   .registerContainer:hover {
-    background-color: darkblue;
+    background-color: rgb(2, 119, 119);
   }
   .input {
     width: 300px;
@@ -35,7 +35,7 @@
     border-color: red;
   }
   .forgotPassword {
-    color: blue;
+    color: darkcyan;
     cursor: pointer;
     margin-bottom: 20px;
   }
@@ -47,7 +47,7 @@
     margin-bottom: 20px;
   }
   .loginButton {
-    background-color: blue;
+    background-color: darkcyan;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -56,5 +56,5 @@
     transition: background-color 0.3s;
   }
   .loginButton:hover {
-    background-color: darkblue;
+    background-color: darkcyan;
   }
